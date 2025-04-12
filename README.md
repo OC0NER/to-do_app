@@ -73,7 +73,7 @@ npm run dev
 
 ## 📷 Capturas de pantalla
 
-*(Agrega aquí capturas si lo deseas)*
+-
 
 ---
 
