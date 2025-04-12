@@ -1,0 +1,23 @@
+// Estructura:
+// /todo-app
+// ├── /client  (React)
+// └── /server  (Node.js + Express)
+
+
+
+// =========================
+// Cómo ejecutar el proyecto:
+// =========================
+
+// 1. En /server:
+// npm init -y
+// npm install express cors
+// node index.js
+
+// 2. En /client:
+// npm create vite@latest (elige React)
+// cd client
+// npm install
+// npm run dev
+
+// ¡Listo! Abre tu navegador en http://localhost:5173 y prueba.
